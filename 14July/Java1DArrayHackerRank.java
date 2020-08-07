@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class Java1DArrayHackerRank {
 
     public static void main(String[] args) {
 	   
